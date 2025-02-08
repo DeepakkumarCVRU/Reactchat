@@ -35,7 +35,7 @@ function Portifoliyo() {
     <div className='w-full h-full '>
       <div>
         <div className='flex justify-center items-center p-5 mb-10'>
-          <h1 className='text-4xl'> OUR Portifoliyo</h1>
+          <h1 className='text-4xl'> OUR Portfoliyo</h1>
         </div>
         <div className='flex justify-center w-full text-2xl  border-b-2 border-black'>our client</div>
         <div className='flex flex-wrap justify-center items-center p-4'>
