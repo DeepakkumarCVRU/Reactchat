@@ -30,7 +30,7 @@ function Navbar() {
             <NavLink to="/" className='cursor-pointer border border-slate-50 hover:bg-slate-300 hover:border-green-200 px-5 rounded-xl py-2' onClick={LinksToggle}>home</NavLink>
             <NavLink to="/about" className='cursor-pointer border border-slate-50 hover:bg-slate-300 hover:border-green-200 px-5 rounded-xl py-2' onClick={LinksToggle}>about</NavLink>
             <NavLink to="/services" className='cursor-pointer border border-slate-50 hover:bg-slate-300 hover:border-green-200 px-5 rounded-xl py-2' onClick={LinksToggle}>services</NavLink>
-            <NavLink to="/portfoliyo" className='cursor-pointer border border-slate-50 hover:bg-slate-300 hover:border-green-200 px-5 rounded-xl py-2' onClick={LinksToggle}>Portifoliyo</NavLink>
+            <NavLink to="/portfoliyo" className='cursor-pointer border border-slate-50 hover:bg-slate-300 hover:border-green-200 px-5 rounded-xl py-2' onClick={LinksToggle}>Portfoliyo</NavLink>
             <NavLink to="/contact" className='cursor-pointer border border-slate-50 hover:bg-slate-300 hover:border-green-200 px-5 rounded-xl py-2' onClick={LinksToggle}>contact</NavLink>
           </div>
 
